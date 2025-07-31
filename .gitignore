@@ -1,0 +1,14 @@
+# Ignore unnecessary/big files
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.json
+.DS_Store
+.env
+.venv/
+.ipynb_checkpoints/
+*.wav
+*.mp3
+*.ogg
+spectrograms/
